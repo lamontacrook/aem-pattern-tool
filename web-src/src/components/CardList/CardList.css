@@ -1,0 +1,16 @@
+main .cardlist {
+  display: flex;
+  justify-content: space-between;
+  margin: 100px auto;
+}
+
+main .cardlist .card {
+  width: 427px;
+  margin: 10px 0;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+main {
+  margin: 100px 20px;
+}

@@ -1,0 +1,56 @@
+{
+  "data": {
+    "cardListList": {
+      "items": [
+        {
+          "card": [
+            {
+              "title": "MacBook Models as low as $749.99.",
+              "description": {
+                "plaintext": "test"
+              },
+              "asset": null,
+              "callToAction": "Shop Now"
+            },
+            {
+              "title": "Save up to $200 on select Samsung monitors.",
+              "description": {
+                "plaintext": "Minimum savings is $50."
+              },
+              "asset": {
+                "_dynamicUrl": "/adobe/dynamicmedia/deliver/dm-aid--748c2940-4327-4731-acc7-93c160cdf363/pol_6468857_samsung_Odyssey_G9_MMT_438013_0808_0ee01026_595f.jpg"
+              },
+              "callToAction": "Shop Now"
+            },
+            {
+              "title": " Minimum savings is $50. Shop Now  Save up to 30% on select Amazon Fire tablets.",
+              "description": {
+                "plaintext": "Minimum savings is 10%."
+              },
+              "asset": null,
+              "callToAction": "Shop Now"
+            },
+            {
+              "title": "Save $50 on select Samsung Galaxy Watch5 Pro.",
+              "description": {
+                "plaintext": "test"
+              },
+              "asset": {
+                "_dynamicUrl": "/adobe/dynamicmedia/deliver/dm-aid--e58d86b3-753b-43bf-84d2-9152e5aff8c5/MMT_684741_pol_COPE_DER_1a6c46f6_06bd_4679_b42e_587e401c8a21.jpg"
+              },
+              "callToAction": "Shop Now"
+            },
+            {
+              "title": "Save up to $70 on select Fitbit smartwatches and fitness trackers.",
+              "description": {
+                "plaintext": "test"
+              },
+              "asset": null,
+              "callToAction": "Shop Now"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

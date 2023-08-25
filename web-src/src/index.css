@@ -1,0 +1,111 @@
+/*
+* <license header>
+*/
+
+/* @font-face {
+  font-display: swap;
+  font-family: Human BBY Condensed Digital;
+  font-style: normal;
+  font-weight: 300;
+  src: url(/fonts/ad676e4de2d0717ff348.woff2) format("woff2")
+} */
+
+@font-face {
+  size-adjust:105%;font-family: Human Fallback;
+  src: local(arial)
+}
+
+/* @font-face {
+  font-display: swap;
+  font-family: Human BBY Condensed Digital;
+  font-style: normal;
+  font-weight: 500 600;
+  src: url(/fonts/5e364d2f8092073e798b.woff2) format("woff2")
+} */
+
+/* @font-face {
+  font-display: swap;
+  font-family: Human BBY Condensed Digital;
+  font-style: normal;
+  font-weight: 700;
+  src: url(./fonts/5a940ccc5920569fc8db.woff2) format("woff2")
+} */
+
+/* @font-face {
+  font-display: swap;
+  font-family: Human BBY Digital;
+  font-style: normal;
+  font-weight: 300;
+  src: url(/fonts/2831c370bcd5d8865105.woff2) format("woff2")
+} */
+
+/* @font-face {
+  font-display: swap;
+  font-family: Human BBY Digital;
+  font-style: italic;
+  font-weight: 300;
+  src: url(/fonts/897799c2f98dca9d91d2.woff2) format("woff2")
+} */
+
+@font-face {
+  font-display: swap;
+  font-family: Human BBY Digital;
+  font-style: normal;
+  font-weight: 400;
+  src: url(./fonts/60fb346d82490233081f.woff2) format("woff2")
+}
+
+/* @font-face {
+  font-display: swap;
+  font-family: Human BBY Digital;
+  font-style: italic;
+  font-weight: 400;
+  src: url(/fonts/66a2c9e698c0cda40c44.woff2) format("woff2")
+} */
+
+@font-face {
+  font-display: swap;
+  font-family: Human BBY Digital;
+  font-style: normal;
+  font-weight: 500 600;
+  src: url(./fonts/37f8017947c264b8389f.woff2) format("woff2")
+}
+
+/* @font-face {
+  font-display: swap;
+  font-family: Human BBY Digital;
+  font-style: italic;
+  font-weight: 500 600;
+  src: url(/fonts/2437096c7bb8fba2c6d4.woff2) format("woff2")
+} */
+
+@font-face {
+  font-display: swap;
+  font-family: Human BBY Digital;
+  font-style: normal;
+  font-weight: 700;
+  src: url(./fonts/4eea7323c97fc8e6cfa7.woff2) format("woff2")
+}
+
+/* @font-face {
+  font-display: swap;
+  font-family: Human BBY Digital;
+  font-style: italic;
+  font-weight: 700;
+  src: url(/fonts/55c4fa60b4dc473fa481.woff2) format("woff2")
+} */
+
+/* @font-face {
+  font-display: swap;
+  font-family: Human BBY Digital;
+  font-style: normal;
+  font-weight: 900;
+  src: url(./fonts/18c1ffd9f6cda9986d12.woff2) format("woff2")
+} */
+
+html,
+body {
+  margin: 0;
+  font-family: 'Human BBY Digital', 'Human Fallback, Arial, Helvetica, sans-serif';
+}
+
