@@ -27,7 +27,6 @@ junit.xml
 coverage
 .aws.tmp.creds.json
 .wskdebug.props.tmp
-.service-token.json
 
 # Parcel
 .parcel-cache
@@ -40,4 +39,6 @@ coverage
 
 # logs folder for aio-run-detached
 logs
+
+service-token.json
 
